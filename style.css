@@ -49,3 +49,7 @@ input[type="range"]{
    border-radius: 4px;
    padding: 5px;
 }
+.btnn:hover{
+    background-color: aliceblue;
+    color: #333;
+}
