@@ -7,21 +7,24 @@ body{
     background-color: rgba(0,213,255,1);
 
 }
-.survey{
-    width: 500px;
+main{
+ width: 500px;
     height: auto;
     background-color: white;
-        margin: 100px auto;
+      padding: 10px 10px;
+        border-radius: 5px;
+         margin: 100px auto;
     
         display: block;
-        padding: 10px 10px;
-        border-radius: 5px;
 }
-.survey h2{
+
+
+h2{
     text-align: center;
     margin-bottom: 10px;
     font-weight: bold;
     font-size: 1.5em;
+  
 }
 label{
     display: block;
