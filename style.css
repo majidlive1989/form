@@ -1,0 +1,34 @@
+*{
+    margin : 0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgba(0,213,255,1);
+
+}
+.survey{
+    width: 300px;
+    height: auto;
+    background-color: white;
+        margin: 100px auto;
+        text-align: center;
+        display: block;
+        padding: 10px 10px;
+}
+.formgroup{
+    display: block;
+    margin-bottom: 10px;
+}
+input[type="text"],input[type="email"], textarea,
+input[type="range"]{
+    width: 100%;
+ border: 1px solid #ccc;
+ padding: 5px;
+ border-radius: 4px;
+   
+}
+.btnn{
+    width: 100%;
+    padding: 4px 10px;
+}
